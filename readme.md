@@ -37,3 +37,6 @@ GIT checkout dev -> git branch dev
 git log -> vez el historial del git en local
 
 aqui cambios de otro user
+
+git reset HEAD^ --hard -> elimina el ultimo commit en local
+git push origin -f -> sube los cambios forzando el push
