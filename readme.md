@@ -35,3 +35,5 @@ GIT CHECKOUT BORRAR CAMBIOS
 GIT checkout dev -> git branch dev
 
 git log -> vez el historial del git en local
+
+aqui cambios de otro user
