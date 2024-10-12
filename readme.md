@@ -3,6 +3,7 @@ git status -> ayuda a ver el estado de mi proyecto para git
 git diff -> ver los cambios a detallegit
 git add . -> agrega todos los cambios "nombre archivo " solo el archivo
 git commit -m "mensaje"-> confirmas el cambio que vas a subir -m con un mensaje(mejor siempre usar describe la operacion)
+git push -> sube los cambios a git remoto
 
 @requestmapping("/listar")
 serviciolista(){
